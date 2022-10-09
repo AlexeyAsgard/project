@@ -37,5 +37,4 @@ jobs:
         slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
         slack_channel: builds
         slack_username: Github
-        status: failure
-        if: failure()
+      if: always()
