@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: alexeyby/openhab
   pullPolicy: IfNotPresent
-  tag: "3.2.0"
+  tag: "0.0.3"
 
 imagePullSecrets: []
 nameOverride: ""
