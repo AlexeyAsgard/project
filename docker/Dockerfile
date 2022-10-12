@@ -23,7 +23,7 @@ ENV \
     OPENHAB_USERDATA="/openhab/userdata" \
     USER_ID="9001" \
     JAVA_VERSION="11" \
-    OPENHAB_VERSION="latest"
+    OPENHAB_VERSION="3.4.0.M3"
     
 # Basic build-time metadata as defined at http://label-schema.org
 LABEL org.label-schema.build-date=$BUILD_DATE \
