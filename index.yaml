@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   openhab:
   - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-12T13:20:45.480530089Z"
+    description: Openhab smarthome helm chart
+    digest: 8b93a9a640cce38cd48fa6fe3e31d6a440e599a087c612719c28f5a52bd3432a
+    name: openhab
+    type: application
+    urls:
+    - https://alexeyasgard.github.io/project/releases/openhab-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
     appVersion: 3.0.0
-    created: "2022-10-12T16:08:04.411001538+03:00"
+    created: "2022-10-12T13:20:45.479995474Z"
     description: Openhab smarthome helm chart
     digest: 85a1d51b5db2bd902090ebdfea332741d629225c37c35aed665d414bf65ac31e
     name: openhab
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://alexeyasgard.github.io/project/releases/openhab-0.0.0.tgz
     version: 0.0.0
-generated: "2022-10-12T16:08:04.410443355+03:00"
+generated: "2022-10-12T13:20:45.478875643Z"
