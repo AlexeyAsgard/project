@@ -16,10 +16,10 @@
 ## Technologies which were used in project
 
 - Orchestration: Kubernates
-- Automation tools: ArgoCD
+- Automation tools: ArgoCD, Github action
 - SCM: Github
 - Notification: Slack
-- Other tools: Docker, Helm
+- Other tools: Docker, Helm, NFS
 
 **CI/CD description:**  After pushing to the main branch, Git Action bump tag version, builds image and push to Docker HUB.
 After that, it check template manifests and creates a HELM chart package in ./reseases folder.
