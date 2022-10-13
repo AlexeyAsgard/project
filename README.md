@@ -9,7 +9,7 @@
 - Name of application: Openhab
 - Programming language: Java
 - App use NFS share to storage userdata files.
-- Link on git repository: https://github.com/openhab/openhab-docker
+
 ---
 ![pipeline](./pipeline.png)
 ---
@@ -31,3 +31,5 @@ With the help of ArgoCD, you can study the transition to different versions of a
 ## Links
 
 [Project on github](https://github.com/AlexeyAsgard/project)
+[Docker HUB repo](https://hub.docker.com/repository/docker/alexeyby/openhab/general)
+[Openhab git repo](https://github.com/openhab/openhab-docker)
