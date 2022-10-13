@@ -30,6 +30,6 @@ With the help of ArgoCD, you can study the transition to different versions of a
 
 ## Links
 
-[Project on github](https://github.com/AlexeyAsgard/project)
-[Docker HUB repo](https://hub.docker.com/repository/docker/alexeyby/openhab/general)
-[Openhab git repo](https://github.com/openhab/openhab-docker)
+- [Project on github](https://github.com/AlexeyAsgard/project)
+- [Docker HUB repo](https://hub.docker.com/repository/docker/alexeyby/openhab/general)
+- [Openhab git repo](https://github.com/openhab/openhab-docker)
